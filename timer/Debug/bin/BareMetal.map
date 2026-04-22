@@ -1,0 +1,416 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              ./Device_Drivers/CLOCK/Sys_Clock.o (__aeabi_uidiv)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+                              ./Libc_Device_Support/syscalls.o (__errno)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o) (_impure_ptr)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                              ./Startup/startup.o (__libc_init_array)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 ./Application_Source/main.o
+ .bss           0x00000000        0x0 ./Application_Source/main.o
+ .heap          0x00000000      0x200 ./Application_Source/main.o
+ .stack         0x00000000      0x400 ./Application_Source/main.o
+ .text          0x00000000        0x0 ./Application_Source/user_cfg.o
+ .data          0x00000000        0x0 ./Application_Source/user_cfg.o
+ .bss           0x00000000        0x0 ./Application_Source/user_cfg.o
+ .rodata        0x00000000      0x188 ./Application_Source/user_cfg.o
+ .debug_info    0x00000000      0x47c ./Application_Source/user_cfg.o
+ .debug_abbrev  0x00000000       0xaf ./Application_Source/user_cfg.o
+ .debug_aranges
+                0x00000000       0x18 ./Application_Source/user_cfg.o
+ .debug_line    0x00000000      0x196 ./Application_Source/user_cfg.o
+ .debug_str     0x00000000      0x44a ./Application_Source/user_cfg.o
+ .comment       0x00000000       0x4a ./Application_Source/user_cfg.o
+ .ARM.attributes
+                0x00000000       0x2c ./Application_Source/user_cfg.o
+ .text          0x00000000      0x2f8 ./Device_Drivers/GPIO/gpio.o
+ .data          0x00000000        0x0 ./Device_Drivers/GPIO/gpio.o
+ .bss           0x00000000        0x0 ./Device_Drivers/GPIO/gpio.o
+ .debug_info    0x00000000      0x6df ./Device_Drivers/GPIO/gpio.o
+ .debug_abbrev  0x00000000      0x134 ./Device_Drivers/GPIO/gpio.o
+ .debug_aranges
+                0x00000000       0x20 ./Device_Drivers/GPIO/gpio.o
+ .debug_line    0x00000000      0x25e ./Device_Drivers/GPIO/gpio.o
+ .debug_str     0x00000000      0x357 ./Device_Drivers/GPIO/gpio.o
+ .comment       0x00000000       0x4a ./Device_Drivers/GPIO/gpio.o
+ .debug_frame   0x00000000      0x1b0 ./Device_Drivers/GPIO/gpio.o
+ .ARM.attributes
+                0x00000000       0x2c ./Device_Drivers/GPIO/gpio.o
+ .data          0x00000000        0x0 ./Device_Drivers/CLOCK/Sys_Clock.o
+ .bss           0x00000000        0x0 ./Device_Drivers/CLOCK/Sys_Clock.o
+ .text          0x00000000       0x68 ./Device_Drivers/SYSTICK/systick.o
+ .data          0x00000000        0x0 ./Device_Drivers/SYSTICK/systick.o
+ .bss           0x00000000        0x0 ./Device_Drivers/SYSTICK/systick.o
+ .debug_info    0x00000000       0xdb ./Device_Drivers/SYSTICK/systick.o
+ .debug_abbrev  0x00000000       0x91 ./Device_Drivers/SYSTICK/systick.o
+ .debug_aranges
+                0x00000000       0x20 ./Device_Drivers/SYSTICK/systick.o
+ .debug_line    0x00000000      0x157 ./Device_Drivers/SYSTICK/systick.o
+ .debug_str     0x00000000      0x194 ./Device_Drivers/SYSTICK/systick.o
+ .comment       0x00000000       0x4a ./Device_Drivers/SYSTICK/systick.o
+ .debug_frame   0x00000000       0x50 ./Device_Drivers/SYSTICK/systick.o
+ .ARM.attributes
+                0x00000000       0x2c ./Device_Drivers/SYSTICK/systick.o
+ .text          0x00000000      0x54a ./Device_Drivers/TIMER/timer.o
+ .data          0x00000000        0x0 ./Device_Drivers/TIMER/timer.o
+ .bss           0x00000000        0x0 ./Device_Drivers/TIMER/timer.o
+ .debug_info    0x00000000      0x7df ./Device_Drivers/TIMER/timer.o
+ .debug_abbrev  0x00000000      0x12f ./Device_Drivers/TIMER/timer.o
+ .debug_aranges
+                0x00000000       0x20 ./Device_Drivers/TIMER/timer.o
+ .debug_line    0x00000000      0x3ef ./Device_Drivers/TIMER/timer.o
+ .debug_str     0x00000000      0x53e ./Device_Drivers/TIMER/timer.o
+ .comment       0x00000000       0x4a ./Device_Drivers/TIMER/timer.o
+ .debug_frame   0x00000000      0x1b0 ./Device_Drivers/TIMER/timer.o
+ .ARM.attributes
+                0x00000000       0x2c ./Device_Drivers/TIMER/timer.o
+ .text          0x00000000        0xa ./Libc_Device_Support/malloc_support.o
+ .data          0x00000000        0x0 ./Libc_Device_Support/malloc_support.o
+ .bss           0x00000000        0x0 ./Libc_Device_Support/malloc_support.o
+ .debug_info    0x00000000       0x38 ./Libc_Device_Support/malloc_support.o
+ .debug_abbrev  0x00000000       0x2e ./Libc_Device_Support/malloc_support.o
+ .debug_aranges
+                0x00000000       0x20 ./Libc_Device_Support/malloc_support.o
+ .debug_line    0x00000000       0x5a ./Libc_Device_Support/malloc_support.o
+ .debug_str     0x00000000       0xcd ./Libc_Device_Support/malloc_support.o
+ .comment       0x00000000       0x4a ./Libc_Device_Support/malloc_support.o
+ .debug_frame   0x00000000       0x2c ./Libc_Device_Support/malloc_support.o
+ .ARM.attributes
+                0x00000000       0x2c ./Libc_Device_Support/malloc_support.o
+ .text          0x00000000        0xa ./Libc_Device_Support/printf_support.o
+ .data          0x00000000        0x0 ./Libc_Device_Support/printf_support.o
+ .bss           0x00000000        0x0 ./Libc_Device_Support/printf_support.o
+ .debug_info    0x00000000       0x38 ./Libc_Device_Support/printf_support.o
+ .debug_abbrev  0x00000000       0x2e ./Libc_Device_Support/printf_support.o
+ .debug_aranges
+                0x00000000       0x20 ./Libc_Device_Support/printf_support.o
+ .debug_line    0x00000000       0x5a ./Libc_Device_Support/printf_support.o
+ .debug_str     0x00000000       0xcd ./Libc_Device_Support/printf_support.o
+ .comment       0x00000000       0x4a ./Libc_Device_Support/printf_support.o
+ .debug_frame   0x00000000       0x2c ./Libc_Device_Support/printf_support.o
+ .ARM.attributes
+                0x00000000       0x2c ./Libc_Device_Support/printf_support.o
+ .text          0x00000000      0x294 ./Libc_Device_Support/syscalls.o
+ .data          0x00000000        0x4 ./Libc_Device_Support/syscalls.o
+ .bss           0x00000000        0x8 ./Libc_Device_Support/syscalls.o
+ .debug_info    0x00000000      0x721 ./Libc_Device_Support/syscalls.o
+ .debug_abbrev  0x00000000      0x1a3 ./Libc_Device_Support/syscalls.o
+ .debug_aranges
+                0x00000000       0x20 ./Libc_Device_Support/syscalls.o
+ .debug_line    0x00000000      0x2a6 ./Libc_Device_Support/syscalls.o
+ .debug_str     0x00000000      0x3c6 ./Libc_Device_Support/syscalls.o
+ .comment       0x00000000       0x4a ./Libc_Device_Support/syscalls.o
+ .debug_frame   0x00000000      0x264 ./Libc_Device_Support/syscalls.o
+ .ARM.attributes
+                0x00000000       0x2c ./Libc_Device_Support/syscalls.o
+ .text          0x00000000       0x14 ./Special_Libraries/dsplib.o
+ .data          0x00000000        0x0 ./Special_Libraries/dsplib.o
+ .bss           0x00000000        0x0 ./Special_Libraries/dsplib.o
+ .debug_info    0x00000000       0x4a ./Special_Libraries/dsplib.o
+ .debug_abbrev  0x00000000       0x2e ./Special_Libraries/dsplib.o
+ .debug_aranges
+                0x00000000       0x20 ./Special_Libraries/dsplib.o
+ .debug_line    0x00000000       0x56 ./Special_Libraries/dsplib.o
+ .debug_str     0x00000000       0xc6 ./Special_Libraries/dsplib.o
+ .comment       0x00000000       0x4a ./Special_Libraries/dsplib.o
+ .debug_frame   0x00000000       0x48 ./Special_Libraries/dsplib.o
+ .ARM.attributes
+                0x00000000       0x2c ./Special_Libraries/dsplib.o
+ .text          0x00000000       0x54 ./Special_Libraries/reset.o
+ .data          0x00000000        0x0 ./Special_Libraries/reset.o
+ .bss           0x00000000        0x0 ./Special_Libraries/reset.o
+ .debug_info    0x00000000       0xcf ./Special_Libraries/reset.o
+ .debug_abbrev  0x00000000       0x93 ./Special_Libraries/reset.o
+ .debug_aranges
+                0x00000000       0x20 ./Special_Libraries/reset.o
+ .debug_line    0x00000000      0x14b ./Special_Libraries/reset.o
+ .debug_str     0x00000000      0x185 ./Special_Libraries/reset.o
+ .comment       0x00000000       0x4a ./Special_Libraries/reset.o
+ .debug_frame   0x00000000       0x4c ./Special_Libraries/reset.o
+ .ARM.attributes
+                0x00000000       0x2c ./Special_Libraries/reset.o
+ .data          0x00000000        0x0 ./Special_Libraries/cmsis_gcc.o
+ .bss           0x00000000        0x0 ./Special_Libraries/cmsis_gcc.o
+ .data          0x00000000        0x0 ./Startup/startup.o
+ .bss           0x00000000        0x0 ./Startup/startup.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+RAM              0x20000000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./Application_Source/main.o
+LOAD ./Application_Source/user_cfg.o
+LOAD ./Device_Drivers/GPIO/gpio.o
+LOAD ./Device_Drivers/CLOCK/Sys_Clock.o
+LOAD ./Device_Drivers/SYSTICK/systick.o
+LOAD ./Device_Drivers/TIMER/timer.o
+LOAD ./Libc_Device_Support/malloc_support.o
+LOAD ./Libc_Device_Support/printf_support.o
+LOAD ./Libc_Device_Support/syscalls.o
+LOAD ./Special_Libraries/dsplib.o
+LOAD ./Special_Libraries/reset.o
+LOAD ./Special_Libraries/cmsis_gcc.o
+LOAD ./Startup/startup.o
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+                0x00000000                __FLASH_START = 0x0
+                0x00020000                __FLASH_SIZE = 0x20000
+                0x20000000                __RAM_START = 0x20000000
+                0x00004000                __RAM_SIZE = 0x4000
+                0x00001000                __STACK_SIZE = 0x1000
+                0x00000200                __HEAP_SIZE = 0x200
+                0x20004000                __STACK_START = (__RAM_START + __RAM_SIZE)
+                0x20003000                __STACK_END = (__STACK_START - __STACK_SIZE)
+                0x20002e00                __HEAP_START = (__STACK_END - __HEAP_SIZE)
+                0x20003000                __HEAP_END = __STACK_END
+
+.text           0x00000000      0x784
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./Startup/startup.o
+                0x00000000                vector
+ *(.user_irq_hdlr)
+ *(.text*)
+ .text          0x000000c0      0x130 ./Application_Source/main.o
+                0x000000c0                main
+                0x00000184                tcpwm_interrupts_1_IRQHandler
+                0x000001b0                init_peri_Clock_Config
+ .text          0x000001f0      0x288 ./Device_Drivers/CLOCK/Sys_Clock.o
+                0x000001f0                SysClk_PeriphDisableDivider
+                0x00000228                SysClk_PeriphSetDivider
+                0x00000278                SysClk_PeriphEnableDivider
+                0x000002b4                SysClk_PeriphAssignDivider
+                0x000002f4                Cy_SysClk_ClkHfSetDivider
+                0x00000328                Cy_SysClk_ImoEnable
+                0x00000340                Cy_SysClk_ImoGetFrequency
+                0x0000037c                Cy_SysClk_ImoSetFrequency
+ .text          0x00000478      0x100 ./Special_Libraries/cmsis_gcc.o
+                0x00000478                enable_irq
+                0x00000484                disable_irq
+                0x00000490                NVIC_SetPriority
+                0x000004ec                NVIC_ClearPendingIRQ
+                0x00000518                NVIC_EnableIRQ
+                0x00000544                NVIC_DisableIRQ
+ .text          0x00000578       0xac ./Startup/startup.o
+                0x00000578                _init
+                0x00000582                Reset_handler
+                0x00000618                tcpwm_interrupts_7_IRQHandler
+                0x00000618                pass_0_interrupt_sar_IRQHandler
+                0x00000618                SysTick_Handler
+                0x00000618                PendSV_Handler
+                0x00000618                NMI_Handler
+                0x00000618                ioss_interrupts_gpio_1_IRQHandler
+                0x00000618                cpuss_interrupt_dma_IRQHandler
+                0x00000618                can_interrupt_can_IRQHandler
+                0x00000618                ioss_interrupts_gpio_2_IRQHandler
+                0x00000618                scb_2_interrupt_IRQHandler
+                0x00000618                tcpwm_interrupts_4_IRQHandler
+                0x00000618                cpuss_interrupt_spcif_IRQHandler
+                0x00000618                scb_0_interrupt_IRQHandler
+                0x00000618                tcpwm_interrupts_3_IRQHandler
+                0x00000618                csd_interrupt_IRQHandler
+                0x00000618                scb_4_interrupt_IRQHandler
+                0x00000618                crypto_interrupt_IRQHandler
+                0x00000618                tcpwm_interrupts_6_IRQHandler
+                0x00000618                ioss_interrupt_gpio_IRQHandler
+                0x00000618                lpcomp_interrupt_IRQHandler
+                0x00000618                scb_1_interrupt_IRQHandler
+                0x00000618                Default_Handler
+                0x00000618                scb_3_interrupt_IRQHandler
+                0x00000618                ioss_interrupts_gpio_3_IRQHandler
+                0x00000618                ioss_interrupts_gpio_0_IRQHandler
+                0x00000618                tcpwm_interrupts_0_IRQHandler
+                0x00000618                SVC_Handler
+                0x00000618                tcpwm_interrupts_2_IRQHandler
+                0x00000618                tcpwm_interrupts_5_IRQHandler
+                0x00000618                srss_interrupt_wdt_IRQHandler
+                0x00000618                pass_0_interrupt_ctbs_IRQHandler
+                0x00000618                wco_interrupt_IRQHandler
+                0x0000061e                HRDFLT_Handler
+                0x0000061e                HardFault_Handler
+ .text          0x00000624      0x114 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x00000624                __aeabi_uidiv
+                0x00000624                __udivsi3
+                0x00000730                __aeabi_uidivmod
+ .text          0x00000738        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x00000738                __aeabi_idiv0
+                0x00000738                __aeabi_ldiv0
+ .text.__libc_init_array
+                0x0000073c       0x48 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                0x0000073c                __libc_init_array
+ *(.init*)
+ *(.fini*)
+                0x00000784                . = ALIGN (0x4)
+ *(.rodata .rodata.*)
+                0x00000784                . = ALIGN (0x4)
+                0x00000784                __etext = .
+                0x00000784                _la_data = LOADADDR (.data)
+
+.glue_7         0x00000784        0x0
+ .glue_7        0x00000784        0x0 linker stubs
+
+.glue_7t        0x00000784        0x0
+ .glue_7t       0x00000784        0x0 linker stubs
+
+.vfp11_veneer   0x00000784        0x0
+ .vfp11_veneer  0x00000784        0x0 linker stubs
+
+.v4_bx          0x00000784        0x0
+ .v4_bx         0x00000784        0x0 linker stubs
+
+.iplt           0x00000784        0x0
+ .iplt          0x00000784        0x0 ./Application_Source/main.o
+
+.rel.dyn        0x00000784        0x0
+ .rel.iplt      0x00000784        0x0 ./Application_Source/main.o
+
+.data           0x20000000        0x0 load address 0x00000784
+                0x20000000                __data_start = .
+ *(.data*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __data_end = .
+
+.igot.plt       0x20000000        0x0 load address 0x00000784
+ .igot.plt      0x20000000        0x0 ./Application_Source/main.o
+
+.bss            0x20000000        0x0 load address 0x00000784
+                0x20000000                __bss_start__ = .
+ *(.bss)
+ *(.bss.*)
+ *(COMMON)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_end__ = .
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                end = .
+                0x20000000                __end__ = .
+
+Heap            0x20000000     0x2e00 load address 0x00000784
+                0x20002e00                . = ABSOLUTE (__HEAP_START)
+ *fill*         0x20000000     0x2e00 
+ *(.heap)
+                0x20002e00                . = ALIGN (0x4)
+
+Stack           0x20002e00      0x200 load address 0x00000784
+                0x20003000                . = ABSOLUTE (__STACK_END)
+ *fill*         0x20002e00      0x200 
+ *(.stack)
+OUTPUT(bin/BareMetal.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000      0xd6d
+ .debug_info    0x00000000      0x131 ./Application_Source/main.o
+ .debug_info    0x00000131      0x85f ./Device_Drivers/CLOCK/Sys_Clock.o
+ .debug_info    0x00000990      0x23f ./Special_Libraries/cmsis_gcc.o
+ .debug_info    0x00000bcf      0x19e ./Startup/startup.o
+
+.debug_abbrev   0x00000000      0x3f9
+ .debug_abbrev  0x00000000       0xaa ./Application_Source/main.o
+ .debug_abbrev  0x000000aa      0x187 ./Device_Drivers/CLOCK/Sys_Clock.o
+ .debug_abbrev  0x00000231       0xdb ./Special_Libraries/cmsis_gcc.o
+ .debug_abbrev  0x0000030c       0xed ./Startup/startup.o
+
+.debug_aranges  0x00000000       0x80
+ .debug_aranges
+                0x00000000       0x20 ./Application_Source/main.o
+ .debug_aranges
+                0x00000020       0x20 ./Device_Drivers/CLOCK/Sys_Clock.o
+ .debug_aranges
+                0x00000040       0x20 ./Special_Libraries/cmsis_gcc.o
+ .debug_aranges
+                0x00000060       0x20 ./Startup/startup.o
+
+.debug_line     0x00000000      0x73b
+ .debug_line    0x00000000      0x19a ./Application_Source/main.o
+ .debug_line    0x0000019a      0x235 ./Device_Drivers/CLOCK/Sys_Clock.o
+ .debug_line    0x000003cf      0x1c2 ./Special_Libraries/cmsis_gcc.o
+ .debug_line    0x00000591      0x1aa ./Startup/startup.o
+
+.debug_str      0x00000000      0x973
+ .debug_str     0x00000000      0x179 ./Application_Source/main.o
+                                0x1c3 (size before relaxing)
+ .debug_str     0x00000179      0x6a4 ./Device_Drivers/CLOCK/Sys_Clock.o
+                                0x7ef (size before relaxing)
+ .debug_str     0x0000081d       0xbd ./Special_Libraries/cmsis_gcc.o
+                                0x21d (size before relaxing)
+ .debug_str     0x000008da       0x99 ./Startup/startup.o
+                                0x1c9 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./Application_Source/main.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./Device_Drivers/CLOCK/Sys_Clock.o
+ .comment       0x00000049       0x4a ./Special_Libraries/cmsis_gcc.o
+ .comment       0x00000049       0x4a ./Startup/startup.o
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2c ./Application_Source/main.o
+ .ARM.attributes
+                0x0000002c       0x2c ./Device_Drivers/CLOCK/Sys_Clock.o
+ .ARM.attributes
+                0x00000058       0x2c ./Special_Libraries/cmsis_gcc.o
+ .ARM.attributes
+                0x00000084       0x2c ./Startup/startup.o
+ .ARM.attributes
+                0x000000b0       0x1e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000ce       0x1e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000ec       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+
+.debug_frame    0x00000000      0x304
+ .debug_frame   0x00000000       0x64 ./Application_Source/main.o
+ .debug_frame   0x00000064      0x108 ./Device_Drivers/CLOCK/Sys_Clock.o
+ .debug_frame   0x0000016c       0xc8 ./Special_Libraries/cmsis_gcc.o
+ .debug_frame   0x00000234       0x84 ./Startup/startup.o
+ .debug_frame   0x000002b8       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000002d8       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
